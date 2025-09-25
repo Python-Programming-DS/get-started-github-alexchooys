@@ -2,9 +2,9 @@
 
 **Due: Friday, Sep 26, 2025 @ 11:59 PM**
 
-About the author--Yuanaseng Choo
+About the author--Yuanseng Choo
 
-1. My preferred name is Yuanaseng and my pronouns are [he/him].
+1. My preferred name is Yuanseng and my pronouns are [he/him].
 2. I am a graduate student majoring in Applied Data Science in the Department of Engineering Education.
 3. I have beginner programming in general.
 4. I have beginner python programming experience.
